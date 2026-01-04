@@ -1,0 +1,12 @@
+## Interface: 30300
+## Title: Crown Cache Addon
+## Notes: Crown Cache Timer & PVP Event Helper
+## Author: Antigravity
+## Version: 1.0
+## SavedVariables: CrownCacheDB
+## SavedVariables: CrownCacheAddonDB
+
+Core.lua
+Timer.lua
+Comm.lua
+UI.lua
